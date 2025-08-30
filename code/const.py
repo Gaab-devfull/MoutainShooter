@@ -1,3 +1,13 @@
 #MENU BACKGROUND
 WIN_WIDTH = 576
 WIN_HEIGTH = 324
+
+C_ORANGE = (25, 128, 0)
+C_WHITE = (225, 225, 225)
+C_YELLOW = (225, 225, 0)
+
+MENU_OPTION = ('NEW GAME 1P',
+               'NEW GAME 2P - COOPERATIVE',
+               'NEW GAME 2P - COMPETITIVE',
+               'SCORE',
+               'EXIT')
